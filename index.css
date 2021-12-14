@@ -13,7 +13,7 @@ body {
 }
 .main {
   background-color: #fff8d8;
-  padding: 1em;
+  padding: 3em;
 }
 h1 {
   font-size: 150%;
@@ -21,6 +21,6 @@ h1 {
   padding: .5em 0;
 }
 div {
-  padding: .1em 0;
+  padding: 0vw 0vh;
   margin: 0vw 0vh;
 }
