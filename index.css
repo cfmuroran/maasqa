@@ -22,5 +22,6 @@ h1 {
 }
 div {
   padding: 0vw 0vh;
-  margin: 0vw 10vh;
+  margin: 0vw 0vh;
+  line-height:30px;
 }
